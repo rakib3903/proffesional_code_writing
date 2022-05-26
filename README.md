@@ -45,8 +45,8 @@ right, or on both side of the hyphens within the header row. <br />
 
     Syntax    | Description  | Test Text
 --------------|--------------|--------------
-Header            Title         Here's this
-Paragraph         Text          And more
+Header        |    Title     |   Here's this
+Paragraph     |    Text      |    And more
 
 # Instructions
 6.S191 software labs are designed to be completed at your own pace. At the end of each <br />
