@@ -16,8 +16,7 @@
         * first sub-sub-item
    * second sub-item
 
-![alt text](/home/rakib/Downloads/68747470733a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f69636f6e6b612f6d656f772f3235362f6361742d636167652d69636f6e2e706e67.png "Logo Title Text 1")
-![alt text][logo]
+
 
 
 
