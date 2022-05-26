@@ -16,7 +16,15 @@
         * first sub-sub-item
    * second sub-item
 
+
 ![alt text](https://github.com/rakib3903/proffesional_code_writing/blob/master/a.png "Logo Title Text 1")
+
+
+
+library(tidyverse)
+library(mdsr)
+SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +
+geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")
 
 
 
