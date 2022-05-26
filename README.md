@@ -14,4 +14,13 @@ Markup : * First Item
          * Second Item
               * first sub-item
                   * first sub-sub-item
-          * second sub-item
+              * second sub-item
+              
+-OR-
+
+Markup : - First Item
+         - Second Item
+              - first sub-item
+                  - first sub-sub-item
+              - second sub-item
+
