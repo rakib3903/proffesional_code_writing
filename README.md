@@ -30,10 +30,10 @@
 
 
 
-'library(tidyverse)' <br />
-'library(mdsr)' <br />
-'SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +' <br />
-'geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")' <br />
+`library(tidyverse)` <br />
+`library(mdsr)` <br />
+`SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +` <br />
+`geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")` <br />
 
 
 
