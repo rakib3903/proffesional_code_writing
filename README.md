@@ -55,7 +55,7 @@ Additionally, if you would like to submit your lab as part of the 6.S191 lab com
 instructions regarding what information must be submitted is also provided at the end of <br />
 each lab. <br />
 
-# License
+## License
 All code in this repository is copyright 2022 [MIT 6.S191 Introduction To Deep Learning](http://introtodeeplearning.com).All <br />
 Rights Reserved. <br />
 
