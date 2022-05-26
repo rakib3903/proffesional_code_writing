@@ -2,8 +2,8 @@
 ##  I have to write markdown
 ### Some math equation
                    First equation: Y =Xβ+εy, ∀X
-                 Second equation: X=Zγ+εx
-                      $f1(ω)=σ^2/2π$,ω∈[−π,π]
+                   Second equation: X=Zγ+εx
+                   $f1(ω)=σ^2/2π$,ω∈[−π,π]
                       
 1. First item a. first sub-item A) first sub-sub-item b. second sub-item
 2. Second item
@@ -30,7 +30,7 @@
 
 
 
-*library(tidyverse)* <br />
+`library(tidyverse)` <br />
 `library(mdsr)` <br />
 `SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +` <br />
 `geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")` <br />
