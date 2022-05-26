@@ -10,9 +10,8 @@
 3. Third item a. second sub item
 4. Fourth Item
 
-..* First Item
-
-..* Second Item
-first sub-item
-first sub-sub-item
-second sub-item
+Markup : * First Item
+         * Second Item
+              * first sub-item
+                  * first sub-sub-item
+          * second sub-item
