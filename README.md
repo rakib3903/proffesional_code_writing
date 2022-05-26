@@ -10,17 +10,9 @@
 3. Third item a. second sub item
 4. Fourth Item
 
-Markup : * First Item
-         * Second Item
-              * first sub-item
-                  * first sub-sub-item
-              * second sub-item
-              
--OR-
-
-Markup : - First Item
-         - Second Item
-              - first sub-item
-                  - first sub-sub-item
-              - second sub-item
+- First Item
+- Second Item
+     - first sub-item
+           - first sub-sub-item
+     - second sub-item
 
