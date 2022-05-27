@@ -3,7 +3,7 @@
 ### Some math equation
 
 First equation:$Y =X \beta+ \epsilon y, X$ <br />
-$Second equation:$X=Zγ+ \epsilon x$<br />
+Second equation:$X=Zγ+ \epsilon x$<br />
 $f_1( \omega)= \frac{ \sigma^2}{2 \pi} , \omega \in[− \pi, \pi]$
                    
                    
