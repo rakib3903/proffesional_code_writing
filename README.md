@@ -1,10 +1,10 @@
 # Assignment 0: Markdown
 ##  I have to write markdown
 ### Some math equation
-                   First equation: Y =Xβ+εy, ∀X
-                   Second equation: X=Zγ+εx
-               
-$$f_1( \omega)= \frac{ \sigma^2}{2* \pi} , \omega \in[− \pi, \pi]$$
+
+$$First equation: Y =X \beta+ \epsilony, X$$
+$$Second equation: X=Zγ+ \epsilonx$$
+$$f_1( \omega)= \frac{ \sigma^2}{2 \pi} , \omega \in[− \pi, \pi]$$
                    
                    
 1.First item a. first sub-item A) first sub-sub-item b. second sub-item
