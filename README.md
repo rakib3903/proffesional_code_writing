@@ -2,12 +2,12 @@
 ##  I have to write markdown
 ### Some math equation
 
-First equation:$Y =X \beta+ \epsilon y, X$ <br />
-Second equation:$X=Zγ+ \epsilon x$<br />
+First equation:$Y =X \beta+ \epsilon_y, ∀X$ <br />
+Second equation:$X=Z \gamma+ \epsilon_x$<br />
 $f_1( \omega)= \frac{ \sigma^2}{2 \pi} , \omega \in [- \pi , \pi]$ <br />
                    
                    
-1.First item a. first sub-item A) first sub-sub-item b. second sub-item
+1.First item a. first sub-item A) first sub-sub-item b. second sub-item <br />
 2. Second item
 3. Third item a. second sub item
 4. Fourth Item
