@@ -3,7 +3,9 @@
 ### Some math equation
                    First equation: Y =Xβ+εy, ∀X
                    Second equation: X=Zγ+εx
+                   $$
                     f1(ω)=\frac{σ^2}{2*pi} ,ω∈[−π,π]
+                   $$
                    
 1.First item a. first sub-item A) first sub-sub-item b. second sub-item
 2. Second item
