@@ -2,20 +2,20 @@
 ##  I have to write markdown
 ### Some math equation
 
-#### First equation:$Y =X \beta+ \epsilon_y, ∀X$ <br />
-#### Second equation:$X=Z \gamma+ \epsilon_x$<br />
-#### $f_1( \omega)= \frac{ \sigma^2}{2 \pi} , \omega \in [- \pi , \pi]$ <br />
+First equation:$Y =X \beta+ \epsilon_y, ∀X$ <br />
+Second equation:$X=Z \gamma+ \epsilon_x$<br />
+$f_1( \omega)= \frac{ \sigma^2}{2 \pi} , \omega \in [- \pi , \pi]$ <br />
                    
                    
 1.First item a. first sub-item A) first sub-sub-item b. second sub-item <br />
 2. Second item <br />
 3. Third item a. second sub item <br />
 4. Fourth Item
-* First Item
-* Second Item
-   * first sub-item
-        * first sub-sub-item
-   * second sub-item <br />
+*First Item
+*Second Item
+    *first sub-item
+       *first sub-sub-item
+    *second sub-item <br />
 
 
 
