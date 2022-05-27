@@ -2,8 +2,8 @@
 ##  I have to write markdown
 ### Some math equation
 
-$$First equation: Y =X \beta+ \epsilony, X$$
-$$Second equation: X=Zγ+ \epsilonx$$
+$$First equation: Y =X \beta+ \epsilon y, X$$ <br \>
+$$Second equation: X=Zγ+ \epsilon x$$<br \>
 $$f_1( \omega)= \frac{ \sigma^2}{2 \pi} , \omega \in[− \pi, \pi]$$
                    
                    
