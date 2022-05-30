@@ -13,8 +13,8 @@ $$ f_1(\omega)= \frac{\sigma^2}{2\pi} , \omega \in [- \pi , \pi] $$
 2. Second item <br />
 3. Third item a. second sub item <br />
 4. Fourth Item
-\ * First Item
-\ * Second Item
+* First Item
+* Second Item
      * first sub-item
        * first sub-sub-item
      * second sub-item <br />
