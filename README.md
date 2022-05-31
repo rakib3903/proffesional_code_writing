@@ -4,29 +4,29 @@
 
 $$ First\ equation: Y = X\beta + \epsilon_y,\forall X $$ 
 
-$$Second\ equation : X = Z\gamma+ \epsilon_x $$ 
+$$ Second\ equation : X = Z\gamma+ \epsilon_x $$ 
 
 $$ f_1(\omega)= \frac{\sigma^2}{2\pi} , \omega \in [- \pi , \pi] $$ 
                    
                    
-1.First item a. first sub-item A) first sub-sub-item b. second sub-item <br />
+1. First item a. first sub-item A) first sub-sub-item b. second sub-item <br />
 2. Second item <br />
 3. Third item a. second sub item <br />
 4. Fourth Item
-* First Item
-* Second Item
-     * first sub-item
-       * first sub-sub-item
-     * second sub-item <br />
+- First Item
+- Second Item
+     - first sub-item
+       - first sub-sub-item
+     - second sub-item <br />
 
 ![alt text](https://github.com/rakib3903/proffesional_code_writing/blob/master/a.png "Logo Title Text 1")<bbr />
 
 
 
-library(tidyverse) <br />
-library(mdsr) <br />
-SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() + <br />
-geom_density() + theme_minimal() + labs(title = "SAT Writing Scores") <br />
+`library(tidyverse)` <br />
+`library(mdsr)` <br />
+`SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +` <br />
+`geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")` <br />
 
 
 
@@ -55,8 +55,9 @@ Rights Reserved. <br />
 Licensed under the MIT License. You may not use this file except in compliance with the <br />
 License. Use and/or modification of this code outside of 6.S191 must reference: <br />
 
-© MIT 6.S191: Introduction to Deep Learning<br />
-[http://introdeeplearning.com](http://introtodeeplearning.com) <br />
+> © MIT 6.S191: Introduction to Deep Learning    
+>  
+>[http://introdeeplearning.com](http://introtodeeplearning.com)
 
 
 
