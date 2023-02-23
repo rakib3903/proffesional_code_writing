@@ -35,11 +35,12 @@ $$ f_1(\omega)= \frac{\sigma^2}{2\pi} , \omega \in [- \pi , \pi] $$
 You can align text in the columns to the left, right, or center by adding a colon (:) to the left, <br />
 right, or on both side of the hyphens within the header row. <br />
 
-
+<p align = "center">
 Syntax    | Description  | Test Text
 --------- | ---------- | -----------
 Header        |    Title     |   Here's this
 Paragraph     |    Text      |    And more
+</p>
 
 # Instructions
 6.S191 software labs are designed to be completed at your own pace. At the end of each <br />
